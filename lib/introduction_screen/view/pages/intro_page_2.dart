@@ -7,14 +7,15 @@ class IntroPage2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     const String imagePath = 'assets/recipe_book.png';
-    const String title = 'Flight Tracking App ile Yolculuğunuzu Taçlandırın';
+    const String title =
+        'It is a long established fact \nthat a reader will be';
     const String text =
-        ' Yiyecek ve içecek siparişleriniz uçuş esnasında da kolayca alınır ve saniyeler içinde size ulaştırılır.';
+        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys ';
 
     return const Scaffold(
       body: SafeArea(
           child: Padding(
-        padding: const EdgeInsets.all(8.0),
+        padding: EdgeInsets.all(8.0),
         child: IntroPageContent(
           imagePath: imagePath,
           title: title,

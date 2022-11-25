@@ -7,9 +7,9 @@ class IntroPage3 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     const String imagePath = 'assets/pasta-amico.png';
-    const String title = 'Flight Tracking App ile Afiyet Ol';
+    const String title = 'Lorem Ipsum is simply \ndummy text of the';
     const String text =
-        ' Yiyecek ve içecek siparişleriniz uçuş esnasında da kolayca alınır ve saniyeler içinde size ulaştırılır.';
+        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys ';
 
     return const Scaffold(
       body: SafeArea(

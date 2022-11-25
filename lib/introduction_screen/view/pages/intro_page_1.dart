@@ -7,9 +7,9 @@ class IntroPage1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     const String imagePath = 'assets/flying_around.png';
-    const String title = 'Pegasus Hava Yolları ile \nUçuşa Hoş Geldiniz';
+    const String title = 'Lorem Ipsum is simply \ndummy text of the';
     const String text =
-        'Uçuşunuzun Keyfini Çıkarın!! Deneyimli kabin ekibimiz ve THY den kalan uçaklarımızla keyifli uçuşlar';
+        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys ';
 
     return const Scaffold(
       body: SafeArea(

@@ -1,4 +1,4 @@
-# introduction_page
+# Flutter Introduction Page
 
 - This project was created for the easy of use example of the introduction page, which is shown when an application is opened for the first time.
 - Since it will be displayed only once, a bool value had to be registered to the device. [shared_preferences](https://pub.dev/packages/shared_preferences) could be used for this purpose, but used hive (because I like it).

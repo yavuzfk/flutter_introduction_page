@@ -10,13 +10,16 @@
 - Database [Hive](https://pub.dev/packages/hive)
 - For the beautiful images [here](https://storyset.com/food)
 
-## Screen Shots
-<img align="left" width="400" height="700" src="https://user-images.githubusercontent.com/17355685/203938219-360c19c2-45cc-4cf5-b843-b6bf5ee1edaf.png">
-<img align="center" width="400" height="700" src="https://user-images.githubusercontent.com/17355685/203938211-5547ab7d-2cf9-46c5-a975-0729bb61923e.png">
-<img align="center" width="400" height="700" src="https://user-images.githubusercontent.com/17355685/203938213-a8f7f57d-3803-4159-99f7-cddf9994cadd.png">
-
 ## Demo Video
 [untitled.webm](https://user-images.githubusercontent.com/17355685/203936059-f7580080-10b6-469c-9a56-18db618ee6bb.webm)
- deneme
+
+## Screen Shots
+<img align="left" width="300" height="650" src="https://user-images.githubusercontent.com/17355685/203938219-360c19c2-45cc-4cf5-b843-b6bf5ee1edaf.png">
+<img align="left" width="300" height="650" src="https://user-images.githubusercontent.com/17355685/203938211-5547ab7d-2cf9-46c5-a975-0729bb61923e.png">
+<img align="left" width="300" height="650" src="https://user-images.githubusercontent.com/17355685/203938213-a8f7f57d-3803-4159-99f7-cddf9994cadd.png">
+
+
+
+
 
 

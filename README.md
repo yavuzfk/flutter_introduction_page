@@ -1,16 +1,14 @@
 # introduction_page
 
-A new Flutter project.
+- This project was created for the easy of use example of the introduction page, which is shown when an application is opened for the first time.
+- Since it will be displayed only once, a bool value had to be registered to the device. [shared_preferences](https://pub.dev/packages/shared_preferences) could be used for this purpose, but used hive (because I like it).
+- The introduction screen codes were taken from this [video](https://www.youtube.com/watch?v=SG2WNlQfqyc).
+- Designed to be easy to pick up and use :)
+
+## Tech
+- Page indicator [here](https://pub.dev/packages/smooth_page_indicator)
+- Database [Hive](https://pub.dev/packages/hive)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
